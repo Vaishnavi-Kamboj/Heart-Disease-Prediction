@@ -104,22 +104,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Application Preview
-
-> Add screenshots of your application here after deployment.
-
-### Home Page
-
-<img width="100%" src="images/home.png">
-
-### Prediction Result
-
-<img width="100%" src="images/result.png">
-
----
-
-## 🌐 Future Improvements
-
 - Probability visualization
 - Interactive health charts
 - PDF report generation
